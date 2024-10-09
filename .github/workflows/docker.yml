@@ -17,5 +17,5 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t tdimnet/Php_template-project-with-CI:latest .
+          docker build -t tdimnet/php_template-project-with-ci:latest .
 
